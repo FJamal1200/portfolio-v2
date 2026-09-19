@@ -1,16 +1,37 @@
-# React + Vite
+# Digital Product Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio built with React and Vite.
 
-Currently, two official plugins are available:
+The site includes selected UX case studies, software projects, and an archived version of my older portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Site
 
-## React Compiler
+https://digital-product-portfolio-psi.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- React Router
+- CSS
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Featured Work
+
+### UX
+
+- Deadbeat Remover
+- AppTally
+
+### Development
+
+- ReconPilot
+- Canada Public Accounts Dashboard
+- YouTube Comment Spam Detector
+
+## Running Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/FJamal1200/portfolio-v2.git
