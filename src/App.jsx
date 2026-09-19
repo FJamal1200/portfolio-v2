@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 import CrtShowcase from "./components/CrtShowcase";
 
 import CareerCoach from "./pages/CareerCoach";
-import AppTally from "./pages/AppTally";
+import AppTally from "./pages/Apptally";
 
 const Home = () => {
   return (
