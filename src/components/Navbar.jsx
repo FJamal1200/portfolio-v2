@@ -11,7 +11,7 @@ const Navbar = () => {
 
         <nav className="nav-links">
           <a href="#about">ABOUT</a>
-          <a href="#code">PROJECTS</a>
+          <a href="#projects">PROJECTS</a>
           <a href="#ux">UX WORK</a>
           <a href="#contact">CONTACT</a>
         </nav>
